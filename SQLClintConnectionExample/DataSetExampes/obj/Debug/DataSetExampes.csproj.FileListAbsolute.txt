@@ -1,0 +1,7 @@
+D:\ADO\SQLClintConnectionExample\DataSetExampes\bin\Debug\DataSetExampes.exe.config
+D:\ADO\SQLClintConnectionExample\DataSetExampes\bin\Debug\DataSetExampes.exe
+D:\ADO\SQLClintConnectionExample\DataSetExampes\bin\Debug\DataSetExampes.pdb
+D:\ADO\SQLClintConnectionExample\DataSetExampes\obj\Debug\DataSetExampes.csproj.AssemblyReference.cache
+D:\ADO\SQLClintConnectionExample\DataSetExampes\obj\Debug\DataSetExampes.csproj.CoreCompileInputs.cache
+D:\ADO\SQLClintConnectionExample\DataSetExampes\obj\Debug\DataSetExampes.exe
+D:\ADO\SQLClintConnectionExample\DataSetExampes\obj\Debug\DataSetExampes.pdb

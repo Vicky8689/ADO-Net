@@ -1,0 +1,7 @@
+D:\ADO\SQLClintConnectionExample\SQLCommaneExample\bin\Debug\SQLCommaneExample.exe.config
+D:\ADO\SQLClintConnectionExample\SQLCommaneExample\bin\Debug\SQLCommaneExample.exe
+D:\ADO\SQLClintConnectionExample\SQLCommaneExample\bin\Debug\SQLCommaneExample.pdb
+D:\ADO\SQLClintConnectionExample\SQLCommaneExample\obj\Debug\SQLCommaneExample.csproj.AssemblyReference.cache
+D:\ADO\SQLClintConnectionExample\SQLCommaneExample\obj\Debug\SQLCommaneExample.csproj.CoreCompileInputs.cache
+D:\ADO\SQLClintConnectionExample\SQLCommaneExample\obj\Debug\SQLCommaneExample.exe
+D:\ADO\SQLClintConnectionExample\SQLCommaneExample\obj\Debug\SQLCommaneExample.pdb

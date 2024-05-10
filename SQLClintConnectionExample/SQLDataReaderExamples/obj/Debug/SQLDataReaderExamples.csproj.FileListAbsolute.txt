@@ -1,0 +1,7 @@
+D:\ADO\SQLClintConnectionExample\SQLDataReaderExamples\bin\Debug\SQLDataReaderExamples.exe.config
+D:\ADO\SQLClintConnectionExample\SQLDataReaderExamples\bin\Debug\SQLDataReaderExamples.exe
+D:\ADO\SQLClintConnectionExample\SQLDataReaderExamples\bin\Debug\SQLDataReaderExamples.pdb
+D:\ADO\SQLClintConnectionExample\SQLDataReaderExamples\obj\Debug\SQLDataReaderExamples.csproj.AssemblyReference.cache
+D:\ADO\SQLClintConnectionExample\SQLDataReaderExamples\obj\Debug\SQLDataReaderExamples.csproj.CoreCompileInputs.cache
+D:\ADO\SQLClintConnectionExample\SQLDataReaderExamples\obj\Debug\SQLDataReaderExamples.exe
+D:\ADO\SQLClintConnectionExample\SQLDataReaderExamples\obj\Debug\SQLDataReaderExamples.pdb

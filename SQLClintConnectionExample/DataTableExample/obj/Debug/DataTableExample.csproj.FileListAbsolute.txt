@@ -1,0 +1,7 @@
+D:\ADO\SQLClintConnectionExample\DataTableExample\bin\Debug\DataTableExample.exe.config
+D:\ADO\SQLClintConnectionExample\DataTableExample\bin\Debug\DataTableExample.exe
+D:\ADO\SQLClintConnectionExample\DataTableExample\bin\Debug\DataTableExample.pdb
+D:\ADO\SQLClintConnectionExample\DataTableExample\obj\Debug\DataTableExample.csproj.AssemblyReference.cache
+D:\ADO\SQLClintConnectionExample\DataTableExample\obj\Debug\DataTableExample.csproj.CoreCompileInputs.cache
+D:\ADO\SQLClintConnectionExample\DataTableExample\obj\Debug\DataTableExample.exe
+D:\ADO\SQLClintConnectionExample\DataTableExample\obj\Debug\DataTableExample.pdb

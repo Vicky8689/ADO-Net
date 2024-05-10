@@ -1,0 +1,7 @@
+D:\ADO\SQLClintConnectionExample\SqlCommandExampleNoneQuery\bin\Debug\SqlCommandExampleNoneQuery.exe.config
+D:\ADO\SQLClintConnectionExample\SqlCommandExampleNoneQuery\bin\Debug\SqlCommandExampleNoneQuery.exe
+D:\ADO\SQLClintConnectionExample\SqlCommandExampleNoneQuery\bin\Debug\SqlCommandExampleNoneQuery.pdb
+D:\ADO\SQLClintConnectionExample\SqlCommandExampleNoneQuery\obj\Debug\SqlCommandExampleNoneQuery.csproj.AssemblyReference.cache
+D:\ADO\SQLClintConnectionExample\SqlCommandExampleNoneQuery\obj\Debug\SqlCommandExampleNoneQuery.csproj.CoreCompileInputs.cache
+D:\ADO\SQLClintConnectionExample\SqlCommandExampleNoneQuery\obj\Debug\SqlCommandExampleNoneQuery.exe
+D:\ADO\SQLClintConnectionExample\SqlCommandExampleNoneQuery\obj\Debug\SqlCommandExampleNoneQuery.pdb

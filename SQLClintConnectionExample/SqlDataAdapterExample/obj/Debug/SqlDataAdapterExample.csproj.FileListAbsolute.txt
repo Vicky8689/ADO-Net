@@ -1,0 +1,7 @@
+D:\ADO\SQLClintConnectionExample\SqlDataAdapterExample\bin\Debug\SqlDataAdapterExample.exe.config
+D:\ADO\SQLClintConnectionExample\SqlDataAdapterExample\bin\Debug\SqlDataAdapterExample.exe
+D:\ADO\SQLClintConnectionExample\SqlDataAdapterExample\bin\Debug\SqlDataAdapterExample.pdb
+D:\ADO\SQLClintConnectionExample\SqlDataAdapterExample\obj\Debug\SqlDataAdapterExample.csproj.AssemblyReference.cache
+D:\ADO\SQLClintConnectionExample\SqlDataAdapterExample\obj\Debug\SqlDataAdapterExample.csproj.CoreCompileInputs.cache
+D:\ADO\SQLClintConnectionExample\SqlDataAdapterExample\obj\Debug\SqlDataAdapterExample.exe
+D:\ADO\SQLClintConnectionExample\SqlDataAdapterExample\obj\Debug\SqlDataAdapterExample.pdb
